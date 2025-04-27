@@ -18,11 +18,62 @@ The growing integration of sensors and embedded devices into distributed Interne
 
 ---
 
-## 🚀 About the Code
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-ESP32-orange)
+![Edge%20AI](https://img.shields.io/badge/Edge%20AI-Ready-green)
 
+## Repository Structure 📂
 
+- **`./Freematics/`** — Source code from the Freematics project used for the embedded experiments (ESP32, OBD-II communication, etc.).
+- **`./figures/`** — Figures generated for analysis and publication.
+- **`.git/`** — Version control metadata (Git).
 
 ---
+
+## 🚀 About the Code
+
+### 1️⃣ Cloning the Repository
+```bash
+git clone https://github.com/conect2ai/ETFA2025-Autoencoders.git
+cd ETFA2025-Autoencoder
+```
+
+### 2️⃣ Installing Dependencies
+It is recommended to use Python 3.11+ with a virtual environment (venv or conda):
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Running the Notebooks
+Open the `.ipynb` files using Jupyter Notebook or JupyterLab and execute the cells according to the instructions provided in each section.
+
+## Executing on Freematics One+
+
+### 4️⃣ Opening the Project
+Open the project folder `./Freematics/firmware_v5/telelogger` on PlatformIO, as illustrated in the figure below.
+
+<p align="center">
+  <img width="800" src="./figures/platformio.png" />
+</p>
+
+### 5️⃣ Connecting the Device
+Connect the Freematics One+ to your computer and turn it on using the Freematics Emulator or inside the vehicle.
+
+### 6️⃣ Compiling, Uploading, and Monitoring
+Compile, upload, and monitor the serial (steps 1, 2, and 3, respectively, in the figure below).
+
+<p align="center">
+  <img width="800" src="./figures/upload.png" />
+</p>
+
+---
+
+## :page_facing_up: License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+--- 
 
 ## 🌎 About Conect2AI
 
