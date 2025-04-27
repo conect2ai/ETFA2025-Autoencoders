@@ -35,7 +35,7 @@ The growing integration of sensors and embedded devices into distributed Interne
 ### 1️⃣ Cloning the Repository
 ```bash
 git clone https://github.com/conect2ai/ETFA2025-Autoencoders.git
-cd ETFA2025-Autoencoder
+cd ETFA2025-Autoencoders
 ```
 
 ### 2️⃣ Installing Dependencies
