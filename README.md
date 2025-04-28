@@ -8,7 +8,7 @@
 
 # Autoencoders for Embedded Sensor Data Compression: A Case Study on Vehicular IoT Systems
 
-### ✍🏾 Authors: [Matheus Andrade](https://github.com/DinizMaths), [Miguel Amaral](https://github.com/MiguelEuripedes), [Morsinaldo Medeiros](https://github.com/Morsinaldo), [Marianne Diniz](https://github.com/MarianneDiniz), [Ivanovitch Silva](https://github.com/ivanovitchm)
+### ✍🏾 Authors: [Matheus Andrade](https://github.com/DinizMaths), [Miguel Amaral](https://github.com/MiguelEuripedes), [Morsinaldo Medeiros](https://github.com/Morsinaldo), [Marianne Diniz](https://github.com/MarianneDiniz), [Ivanovitch Silva](https://github.com/ivanovitchm), [Dennis Brandão](https://scholar.google.com.br/citations?user=OxSKwvEAAAAJ&hl=pt-BR), [Massimiliano Gaffurini](https://scholar.google.it/citations?user=s6ZkzYYAAAAJ&hl=it), [Paolo Ferrari](https://scholar.google.com.br/citations?user=-BIQbXMAAAAJ&hl=pt-BR)
 
 ---
 
