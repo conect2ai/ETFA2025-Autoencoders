@@ -24,6 +24,7 @@ The growing integration of sensors and embedded devices into distributed Interne
 
 ## Repository Structure 📂
 
+- **`./notebooks/`** — Source code to produce the dataset, traint the models and choose the models to Freematics.
 - **`./Freematics/`** — Source code from the Freematics project used for the embedded experiments (ESP32, OBD-II communication, etc.).
 - **`./figures/`** — Figures generated for analysis and publication.
 - **`.git/`** — Version control metadata (Git).
